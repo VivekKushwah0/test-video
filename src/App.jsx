@@ -16,6 +16,7 @@ function App() {
         autoPlay={true}
         muted
         controls={true}
+        playsInline={true}
       >
         <source
           src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
